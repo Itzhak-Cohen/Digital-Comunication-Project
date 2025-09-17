@@ -1,4 +1,4 @@
-%% Digital Comunication Project
+%% Digital Communication Project
 
 % Load the given Config
 config = load("config.mat").config;
